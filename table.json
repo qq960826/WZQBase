@@ -1,0 +1,13 @@
+{
+    "name":"student",
+    "maxid":10,
+    "column":["name","class"],
+    "rows":
+    [
+        {
+            "id":1,
+            "data":["wj","EE16-2"]
+        }
+
+    ]
+}
